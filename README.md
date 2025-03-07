@@ -1,4 +1,4 @@
-# 🛡️ **QA Portfolio for SauceDemo E-commerce Application**
+# 🛡️ **QA Portfolio**
 
 Welcome to my QA portfolio! This repository showcases my testing work, including detailed test plans, test cases, bug reports, and a additional notes.  
 
